@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: Stay Hungry, Stay Foolish.
+keywords: Yang Jing, 杨璟
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是杨璟，码而生，码而立。
 
 仰慕「优雅编码的艺术」。
 
