@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: jinydevl.github.io
+url: http://jinydevl.github.io
 date_format: "ordinal"
 title: "Jiny's Space"
 subtitle: ""
